@@ -32,8 +32,8 @@ Watch the demo walkthrough of this AI-powered customer support agent:
 
 ```bash
 # If using git
-git clone <repository-url>
-cd support_agent
+git clone https://github.com/arshadahsan388/ai-customer-support-agent.git
+cd ai-customer-support-agent
 
 # Or download and extract the project files
 ```
