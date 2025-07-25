@@ -1,0 +1,11 @@
+timestamp,ticket_id,subject,description,category,escalation_reason
+2025-07-25T09:36:31.749906,TICKET_20250725_093631_740,test,test description,General,Maximum processing attempts (2) exceeded
+2025-07-25T09:38:04.063591,TICKET_20250725_093804_060,Can't login,I forgot my password and need to reset it,Security,Maximum processing attempts (2) exceeded
+2025-07-25T09:38:12.562780,TICKET_20250725_093812_559,Strange problem,Something weird is happening but I can't explain it,Technical,Maximum processing attempts (2) exceeded
+2025-07-25T10:05:45.501244,TICKET_20250725_100545_496,test,test description,General,Maximum processing attempts (2) exceeded
+2025-07-25T10:07:08.481935,TICKET_20250725_100708_474,Billing discrepancy,I was charged 0 but my plan should be 0,Billing,Maximum processing attempts (2) exceeded
+2025-07-25T10:32:22.099518,TICKET_20250725_103222_098,passord help,reset email not working,Security,Maximum processing attempts (2) exceeded
+2025-07-25T10:56:13.084124,TICKET_20250725_105613_082,password help,reset email not working,Security,AI generation failure
+2025-07-25T10:57:26.760367,TICKET_20250725_105726_741,password help,Reset email not working,General,AI generation failure
+2025-07-25T10:58:12.352801,TICKET_20250725_105812_351,i paid thice,I paid thrice from my account.,General,AI generation failure
+2025-07-25T11:02:49.300828,TICKET_20250725_110249_299,password help,Reset email not working,General,AI generation failure

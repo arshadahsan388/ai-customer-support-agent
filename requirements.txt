@@ -1,0 +1,15 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.0.60
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-google-genai>=1.0.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+
+# Development and testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Type checking (optional)
+mypy>=1.0.0
