@@ -8,7 +8,7 @@ Watch the demo walkthrough of this AI-powered customer support agent:
 
 [![AI Support Agent Demo](https://img.youtube.com/vi/nEdmqNW9P8A/0.jpg)](https://youtu.be/nEdmqNW9P8A)
 
-[🔗 View on YouTube](https://youtu.be/nEdmqNW9P8A)
+[🔗 View on YouTube](https://www.youtube.com/watch?v=nEdmqNW9P8A)
 
 ## 🚀 Features
 
